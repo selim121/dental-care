@@ -1,0 +1,6 @@
+.header-bg {
+    background-image: url('../assets/header/home-header-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
